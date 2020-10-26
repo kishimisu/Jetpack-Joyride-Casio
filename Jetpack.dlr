@@ -1,0 +1,79 @@
+[DLSimRunSpace]
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Jetpack.c
+Line=106
+Flags=00001012
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Menu.c
+Name=sauvegarde
+Flags=00002042
+
+[Breakpoint]
+Address=80000000:88023E20
+Count=0000000C
+Name=tirageMenu:lotsFinaux
+Flags=00000042
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Elements.c
+Line=377
+Flags=00001012
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Elements.c
+Line=376
+Flags=00001012
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Elements.c
+Name=zappeur
+Flags=00002042
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Elements.c
+Name=zappeur[0]
+Flags=00002042
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Elements.c
+Name=zappeur[3]
+Flags=00002042
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Elements.c
+Line=381
+Flags=00001012
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Menu.c
+Name=sauvegarde->gadget
+Flags=00002042
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Jetpack.c
+Line=287
+Flags=00001012
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Jetpack.c
+Line=279
+Flags=00001012
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Jetpack.c
+Line=266
+Flags=00001012
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Jetpack.c
+Line=152
+Flags=00001012
+Sublevel=1
+
+[Breakpoint]
+File=C:\Users\ALEX\Desktop\Jetpack Joyride Casio - LastIndev\Jetpack.c
+Line=152
+Flags=00001012
+Sublevel=2

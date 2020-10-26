@@ -1,0 +1,10 @@
+//------------------------------------------------------------------
+// Addin-Application header control file, created with the CASIO SDK
+//------------------------------------------------------------------
+[OUTPUT]     : "JETPACK.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "Jetpack"
+[APPNAME]    : "@JETPACK"
+[VERSION]    : "69.69.6969"
+[APL_ICON]   : "MainIcon.bmp"
+[MODULE_NUM] : 0

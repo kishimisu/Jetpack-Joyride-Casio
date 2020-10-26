@@ -1,0 +1,25 @@
+Hitachi Optimizing Linkage Editor (Ver. 7.1.03.000)05-Jan-2015 23:16:02
+
+*** Options ***
+
+-subcommand=C:\users\Alex\Temp\hmk7391.tmp
+noprelink
+sdebug
+rom D=R
+nomessage
+list "Y:\Desktop\Jetpack Joyride Casio - LastIndev\Debug\(null).map"
+show symbol
+nooptimize
+start P_TOP,P,C,D,C$VTBL,C$INIT/0300200,B_BR_Size,B,R/08100000
+fsymbol P
+nologo
+input "Y:\Desktop\Jetpack Joyride Casio - LastIndev\Debug\Jetpack.obj" "Y:\Desktop\Jetpack Joyride Casio - LastIndev\Debug\Elements.obj" "Y:\Desktop\Jetpack Joyride Casio - LastIndev\Debug\fonctions.obj" "Y:\Desktop\Jetpack Joyride Casio - LastIndev\Debug\Menu.obj" "Y:\Desktop\Jetpack Joyride Casio - LastIndev\Debug\MonochromeLib.obj"
+input "C:\Program Files\CASIO\fx-9860G SDK\OS\FX\lib\setup.obj"
+library "C:\Program Files\CASIO\fx-9860G SDK\OS\FX\lib\fx9860G_library.lib"
+output "Y:\Desktop\Jetpack Joyride Casio - LastIndev\Debug\(null).abs"
+-nomessage=1100
+end
+
+*** Error information ***
+
+** L2310 (E) Undefined external symbol "_memory_deletefile" referenced in "Y:\Desktop\Jetpack Joyride Casio - LastIndev\Debug\Menu.obj"

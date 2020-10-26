@@ -1,0 +1,158 @@
+Sauvegarde :
+
+gadget[12]:
+
+0:  Air Barrys                (0=pas acheté/1=acheté/2=équipé)
+1:  Insta-Balle               (0=pas acheté/1=acheté/2=équipé)
+2:  Ceinture de Gravité       (0=pas acheté/1=acheté/2=équipé)
+3:  Brouilleur de missiles    (0=pas acheté/1=acheté/2=équipé)
+4:  Jeton offert              (0=pas acheté/1=acheté/2=équipé)
+5:  Glacomatique              (0=pas acheté/1=acheté/2=équipé)
+6:  Gemmologie                (0=pas acheté/1=acheté/2=équipé)
+7:  Jetons magnétiques        (0=pas acheté/1=acheté/2=équipé)
+8:  Tour Gratuit              (0=pas acheté/1=acheté/2=équipé)
+9:  Aimant à pièces           (0=pas acheté/1=acheté/2=équipé)
+10: Dernière chance           (0=pas acheté/1=acheté/2=équipé)
+11: Dézappeur                 (0=pas acheté/1=acheté/2=équipé)
+
+gadgetEquipe[2]:
+
+0: Gadget équipé n°1         (0=pas de gadget / x = n° du gadget+1)
+1: Gadget équipé n°2         (0=pas de gadget / x = n° du gadget+1)
+
+tenue[6]:
+
+0: Barry                     (0=pas acheté/1=acheté/2=équipé)
+1: Barry Costume             (0=pas acheté/1=acheté/2=équipé)
+2: Barry Kid                 (0=pas acheté/1=acheté/2=équipé)
+3: Ninja Barry               (0=pas acheté/1=acheté/2=équipé)
+4: Space Barry               (0=pas acheté/1=acheté/2=équipé)
+5: Barry Lee                 (0=pas acheté/1=acheté/2=équipé)
+
+tenueEquipe:
+
+Tenue équipée                (x= n° de la tenue)
+
+jetpack[4]:
+
+0: Machine Gun Jetpack       (0=pas acheté/1=acheté/2=équipé)
+1: Laser Jetpack             (0=pas acheté/1=acheté/2=équipé)
+2: Réacteur Jetpack          (0=pas acheté/1=acheté/2=équipé)
+3: Guitare Jetpack           (0=pas acheté/1=acheté/2=équipé)
+
+jetpackEquipe:
+
+Jetpack équipé                (x= n° du jetpack)
+
+ameliorationNoir[6]:
+
+0: Moto Noire                (0=pas acheté/1=acheté/2=équipé)
+1: Téléporteur Noir          (0=pas acheté/1=acheté/2=équipé)
+2: Gravity Guy Noir          (0=pas acheté/1=acheté/2=équipé)
+3: Oiseau Noir               (0=pas acheté/1=acheté/2=équipé)
+4: P’tit écraseur Noir       (0=pas acheté/1=acheté/2=équipé)
+5: Dragon Noir               (0=pas acheté/1=acheté/2=équipé)
+
+ameliorationAimant[6]:
+
+0: Moto Aimantée             (0=pas acheté/1=acheté/2=équipé)
+1: Téléporteur Aimanté       (0=pas acheté/1=acheté/2=équipé)
+2: Gravity Guy Aimanté       (0=pas acheté/1=acheté/2=équipé)
+3: Oiseau Aimanté            (0=pas acheté/1=acheté/2=équipé)
+4: P’tit écraseur Aimanté    (0=pas acheté/1=acheté/2=équipé)
+5: Dragon Aimanté            (0=pas acheté/1=acheté/2=équipé)
+
+statScore[3]:
+
+0: Meilleur score OK
+1: Max pièces collectées OK
+2: Max jetons collectés OK
+
+statVehicule[6]:
+
+0: Meilleur score moto OK
+1: Meilleur score téléporteur OK
+2: Meilleur score gravity guy OK
+3: Meilleur score oiseau OK
+4: Meilleur score p’tit écraseur OK
+5: Meilleur score dragon OK 
+
+statTotal[7]:
+
+0: Total de parties OK
+1: Total distance parcourue OK
+2: Total de pièces collectées OK
+3: Total de jetons collectés OK
+4: Total de véhicules conduits OK
+5: Total de prix gagnés lors du tirage final
+6: Total de pièces dépensées OK
+
+statMort[6]:
+
+0: Morts par zappeur OK
+1: Morts par laser OK
+2: Morts par missile OK
+3: Distance parcourue étant mort OK
+4: Pièces collectées étant mort OK
+5: Jetons collectés étant mort OK
+
+succes[19]:
+
+0: GOOD WORK, SIERRA -> Regardez l’écran de la planque 2 minutes OK
+1: HIPPIE -> Faites une partie sans collecter de pièce ni de jeton(SECRET)
+2: HALF WAY -> Débloquez 10 succès OK
+3: BILL GATES -> Achetez tout les éléments du jeu
+4: GOLD DIGGER -> Collectez 20 pièces étant mort (SECRET) OK
+5: TOASTIE -> Faites vous exploser par un missile 3 parties de suite OK
+6: FUZZY LOCKS -> Faites vous cramer (zappeur ou laser) 99 fois OK
+7: ALPHA CHARLIE ECHO -> Dépassez 2km (SECRET) OK
+8: ROMEO APLHA DELTA -> Dépassez 5km OK
+9: TROP DE BILLEY -> Faites une partie en costume et en réacteur OK
+10: HIGH ROLLER -> Perdez le tirage final 100 fois OK
+11: FALLOUT -> Gagner 3 explosions atomiques (SECRET) OK
+12: BULLSEYE -> Faites un score d’exactement 200m OK
+13: JAMES WHO ? -> Achetez 2 jetpacks (SECRET) OK
+14: CRAZY FREAKING SKILLS -> Faites un score de plus de 800m avec le téléporteur OK
+15: ANGRY WINGS -> Obtenez l’oiseau benef 2 fois en une partie OK
+16: BLINGED OUT -> Acheter un véhicule noir (SECRET) OK
+17: TEE HEE TWO -> Obtenez un score d’exactement 69 pièces OK
+18: JE CONNAIS LE DEVELOPPEUR -> on verra (SECRET) OK
+19: MARATHON -> Volez sur 50km OK
+20: ROAD TRIP -> Faite 10km avec la bécane OK
+21: BIG SPENDER -> Dépendez plus de 50 000 pièces (SECRET) OK
+
+argent:
+
+Total d’argent
+
+contrast:
+
+Valeur du contraste
+
+lots :
+
+0 : petit jackpot
+1 : moyen jackpot
+2 : gros jackpot
+3 : petite explosion
+4 : grosse explosion
+5 : explosion atomique
+6 : nouvelle vie 
+7 : 3 jetons 
+8 : piece x2
+9 : 750m d’avance
+
+hitbox :
+
+0 : barry
+1 : moto au sol
+2 : moto en l’air
+3 : teleporteur
+4 : gravity guy
+5 : oiseau
+6 : p’tit écraseur au sol
+7 : p’tit ecraseur en l’air
+8 : dragon
+9 : insta-balle
+10 : glacomatique
+11 : barry mort
