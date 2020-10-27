@@ -2,7 +2,7 @@
 
 Adaptation of the famous [Jetpack Joyride](https://en.wikipedia.org/wiki/Jetpack_Joyride) mobile app on Casio graphical calculators.
 
-![](https://www.youtube.com/watch?v=xekE2-Vgaos)
+![Jetpack Joyride by Drakalex007](launch-screen.png)
 
 # Run instructions
 
@@ -12,4 +12,4 @@ All the necessary informations concerning the installation or tweaking of Casio 
 
 # Software used
 
-I used the [fxSDK](https://www.planet-casio.com/Fr/logiciels/voir_un_logiciel_casio.php?logiciel=SDK_Graph_75_85_95_D%C3%A9veloppement&showid=76), the official SDK for Casio add-ins development. All the game is written in C.
+I used [fxSDK](https://www.planet-casio.com/Fr/logiciels/voir_un_logiciel_casio.php?logiciel=SDK_Graph_75_85_95_D%C3%A9veloppement&showid=76), the official SDK for Casio add-ins development. All the game is written in C.
