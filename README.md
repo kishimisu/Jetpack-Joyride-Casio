@@ -2,9 +2,7 @@
 
 Adaptation of the famous [Jetpack Joyride](https://en.wikipedia.org/wiki/Jetpack_Joyride) mobile app on Casio graphical calculators.
 
-<iframe width="80%" 
-src="https://www.youtube.com/embed/xekE2-Vgaos">
-</iframe>
+![](https://www.youtube.com/watch?v=xekE2-Vgaos)
 
 # Run instructions
 
